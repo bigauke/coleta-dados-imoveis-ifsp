@@ -1,0 +1,19 @@
+id,portal,titulo,endereco,preco_raw,area_raw,quartos_raw,vagas_raw,condo_raw,dt_coleta
+ZAP-SP-1001,Zap Imóveis,Apartamento com 3 quartos e varanda gourmet,"Pinheiros, São Paulo - SP",R$ 1.450.000,110 m²,3 quartos,2 vagas,Cond. R$ 1.380,2026-11-09
+VIVA-SP-1002,VivaReal,Apartamento moderno próximo ao metrô,"Vila Mariana, São Paulo - SP",R$ 890.000,78 m²,2 quartos,1 vaga,Cond. R$ 920,2026-11-09
+ZAP-SP-1003,Zap Imóveis,Apartamento alto padrão vista Parque Ibirapuera,"Moema, São Paulo - SP",R$ 2.180.000,145 m²,3 quartos,3 vagas,Cond. R$ 1.950,2026-11-09
+VIVA-SP-1004,VivaReal,Studio compacto mobiliado centro financeiro,"Itaim Bibi, São Paulo - SP",R$ 980.000,48 m²,1 quarto,1 vaga,Cond. R$ 860,2026-11-09
+ZAP-SP-1005,Zap Imóveis,Apartamento amplo reformado ao lado da PUC,"Perdizes, São Paulo - SP",R$ 1.120.000,95 m²,3 quartos,2 vagas,Cond. R$ 1.100,2026-11-09
+VIVA-SP-1006,VivaReal,Apartamento charmoso próximo à Av. Paulista,"Bela Vista, São Paulo - SP",R$ 620.000,64 m²,2 quartos,,,2026-11-09
+ZAP-SP-1007,Zap Imóveis,Condomínio clube com lazer completo,"Brooklin, São Paulo - SP",R$ 1.590.000,118 m²,3 quartos,2 vagas,Cond. R$ 1.420,2026-11-09
+VIVA-SP-1008,VivaReal,Apartamento ensolarado excelente localização,"Tatuapé, São Paulo - SP",R$ 740.000,82 m²,3 quartos,2 vagas,Cond. R$ 780,2026-11-09
+ZAP-SP-1009,Zap Imóveis,Apartamento familiar zona norte,"Santana, São Paulo - SP",R$ 685.000,86 m²,2 quartos,1 vaga,Cond. R$ 750,2026-11-09
+VIVA-SP-1010,VivaReal,Apartamento cobertura duplex,"Moema, São Paulo - SP",R$ 2.650.000,172 m²,4 quartos,3 vagas,Cond. R$ 2.300,2026-11-09
+ZAP-SP-1011,Zap Imóveis,Apartamento conceito aberto Vila Madalena,"Pinheiros, São Paulo - SP",R$ 1.280.000,92 m²,2 quartos,2 vagas,Cond. R$ 1.150,2026-11-09
+VIVA-SP-1012,VivaReal,Apartamento aconchegante próximo ao metrô Saúde,"Saúde, São Paulo - SP",R$ 560.000,68 m²,2 quartos,1 vaga,Cond. R$ 640,2026-11-09
+ZAP-SP-1013,Zap Imóveis,Apartamento jardim suspenso alto padrão,"Itaim Bibi, São Paulo - SP",R$ 2.490.000,136 m²,3 quartos,2 vagas,Cond. R$ 2.100,2026-11-09
+VIVA-SP-1014,VivaReal,Apartamento bem iluminado Vila Mariana,"Vila Mariana, São Paulo - SP",R$ 1.050.000,88 m²,3 quartos,2 vagas,Cond. R$ 990,2026-11-09
+ZAP-SP-1015,Zap Imóveis,Apartamento funcional próximo ao Parque Villa-Lobos,"Perdizes, São Paulo - SP",R$ 940.000,80 m²,2 quartos,1 vaga,Cond. R$ 890,2026-11-09
+ZAP-SP-1001,Zap Imóveis,Apartamento com 3 quartos e varanda gourmet,"Pinheiros, São Paulo - SP",R$ 1.450.000,110 m²,3 quartos,2 vagas,Cond. R$ 1.380,2026-11-09
+VIVA-SP-1016,VivaReal,Lançamento exclusivo preço sob consulta,"Brooklin, São Paulo - SP",Sob Consulta,120 m²,3 quartos,2 vagas,Cond. R$ 1.500,2026-11-09
+ZAP-SP-1017,Zap Imóveis,Anúncio em atualização cadastral,"Santana, São Paulo - SP",R$ 0,70 m²,2 quartos,1 vaga,Cond. R$ 600,2026-11-09
