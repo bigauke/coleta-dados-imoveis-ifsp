@@ -30,10 +30,11 @@ O repositório conta com os seguintes artefatos principais:
 | Arquivo | Descrição |
 |---------|-----------|
 | `Template_Documentacao.ipynb` | Notebook principal unificado contendo toda a documentação técnica, código executável em 6 etapas, estatísticas, gráficos e checklist. |
-| `Aula4.ipynb` | Notebook prático da Aula 4 preenchido e executado com o pipeline de Web Scraping de Imóveis. |
+| `coletor_imoveis.py` | Script Python modular para coleta, higienização e geração automatizada dos gráficos e CSV. |
 | `meu_dataset_imoveis.csv` | Dataset final limpo e processado (15 registros válidos e 11 colunas). |
 | `imoveis_brutos_zap_vivareal.csv` | Backup dos dados brutos originais (18 registros) preservados antes da limpeza. |
 | `documentacao.md` | Resumo técnico gerado automaticamente pelo script Python na etapa de exportação. |
+| `requirements.txt` | Lista de bibliotecas Python necessárias para reproduzir o ambiente. |
 
 Para executar o projeto no **Jupyter Notebook** ou **Google Colab**:
 ```bash
